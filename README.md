@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="Fhel.dev — Software and Infrastructure" width="100%">
+  <img src="./assets/banner.jpg" alt="Fhel.dev — Software and Infrastructure" width="100%">
 </p>
 
 <br>
