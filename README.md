@@ -6,10 +6,14 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,50:0c4a6e,100:0ea5e9&text=Fhel.dev&fontColor=f8fafc&fontSize=72&fontAlignY=38&desc=System%20Administration%20%2B%20Web%20Development&descSize=20&descAlignY=60&descColor=7dd3fc&animation=fadeIn" alt="Fhel.dev — System Administration + Web Development" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:020617,50:0c4a6e,100:0ea5e9&section=header" alt="" />
 
 <a href="https://fhel-dev.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=760&height=40&lines=I+build+digital+systems+that+help+people+work+better.;System+Administrator+%26+Web+Developer;Dependable+systems+%C2%B7+Practical+tools+%C2%B7+Friendly+UX" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=56&duration=1800&pause=100000&repeat=false&color=0EA5E9&center=true&vCenter=true&width=560&height=90&lines=Fhel.dev" alt="Fhel.dev" />
+</a>
+<br/>
+<a href="https://fhel-dev.vercel.app/">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=400&size=15&duration=3200&pause=1200&color=38BDF8&center=true&vCenter=true&width=760&height=34&lines=I+build+digital+systems+that+help+people+work+better.;System+Administration+%2B+Web+Development;Dependable+systems+%C2%B7+Practical+tools+%C2%B7+Friendly+UX" alt="I build digital systems that help people work better." />
 </a>
 
 <br/>
@@ -30,7 +34,7 @@
 
 ---
 
-## `> whoami`
+## <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=22&duration=1800&pause=100000&repeat=false&color=38BDF8&width=170&height=40&vCenter=true&lines=%3E+whoami" alt="> whoami" />
 
 ```console
 fhel@dev:~$ whoami
@@ -51,9 +55,9 @@ I work at the intersection of **system administration** and **web development**:
 
 <table>
 <tr>
-<td align="center" width="33%"><h2>4+</h2><sub>YEARS IN IT & WEB WORK</sub></td>
-<td align="center" width="33%"><h2>5+</h2><sub>SYSTEMS BUILT OR IMPROVED</sub></td>
-<td align="center" width="33%"><h2>24/7</h2><sub>MINDSET FOR PRACTICAL SUPPORT</sub></td>
+<td align="center" width="33%"><img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=38&duration=1200&pause=100000&repeat=false&color=0EA5E9&center=true&vCenter=true&width=200&height=60&lines=4%2B" alt="4%2B" /><sub>YEARS IN IT & WEB WORK</sub></td>
+<td align="center" width="33%"><img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=38&duration=1200&pause=100000&repeat=false&color=0EA5E9&center=true&vCenter=true&width=200&height=60&lines=5%2B" alt="5%2B" /><sub>SYSTEMS BUILT OR IMPROVED</sub></td>
+<td align="center" width="33%"><img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=38&duration=1200&pause=100000&repeat=false&color=0EA5E9&center=true&vCenter=true&width=200&height=60&lines=24%2F7" alt="24%2F7" /><sub>MINDSET FOR PRACTICAL SUPPORT</sub></td>
 </tr>
 </table>
 
@@ -61,7 +65,7 @@ I work at the intersection of **system administration** and **web development**:
 
 ---
 
-## `> skills`
+## <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=22&duration=1800&pause=100000&repeat=false&color=38BDF8&width=160&height=40&vCenter=true&lines=%3E+skills" alt="> skills" />
 
 <div align="center">
 
@@ -97,7 +101,7 @@ I work at the intersection of **system administration** and **web development**:
 
 ---
 
-## `> experience`
+## <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=22&duration=1800&pause=100000&repeat=false&color=38BDF8&width=230&height=40&vCenter=true&lines=%3E+experience" alt="> experience" />
 
 ```mermaid
 %%{init: {'theme':'dark','themeVariables':{'primaryColor':'#0c4a6e','primaryBorderColor':'#38bdf8','primaryTextColor':'#e2e8f0','lineColor':'#38bdf8','fontFamily':'monospace'}}}%%
@@ -179,7 +183,7 @@ timeline
 
 ---
 
-## `> projects`
+## <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=22&duration=1800&pause=100000&repeat=false&color=38BDF8&width=190&height=40&vCenter=true&lines=%3E+projects" alt="> projects" />
 
 *Production systems I've built and contributed.*
 
@@ -273,7 +277,7 @@ An online learning platform where students can access course materials and engag
 
 ---
 
-## `> education`
+## <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=22&duration=1800&pause=100000&repeat=false&color=38BDF8&width=210&height=40&vCenter=true&lines=%3E+education" alt="> education" />
 
 <table>
 <tr>
@@ -319,7 +323,7 @@ Professional Education Units (18 Units)<br/>
 
 ---
 
-## `> github-stats`
+## <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=22&duration=1800&pause=100000&repeat=false&color=38BDF8&width=250&height=40&vCenter=true&lines=%3E+github-stats" alt="> github-stats" />
 
 <div align="center">
 
@@ -334,7 +338,7 @@ Professional Education Units (18 Units)<br/>
 
 ---
 
-## `> contact`
+## <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=22&duration=1800&pause=100000&repeat=false&color=38BDF8&width=180&height=40&vCenter=true&lines=%3E+contact" alt="> contact" />
 
 <div align="center">
 
