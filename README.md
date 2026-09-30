@@ -45,6 +45,10 @@ Core focus  : Web development
 Operations  : System support
 Approach    : Practical solutions
 
+fhel@dev:~$ ls stack/
+software/   Laravel · Astro · React · Tailwind · PHP · MySQL · Supabase
+systems/    FortiGate · Aruba · Omada · Synology NAS · Multi-WAN · Load balancing
+
 fhel@dev:~$ cat mission.txt
 I build digital systems that help people work better.
 ```
@@ -90,6 +94,22 @@ I work at the intersection of **system administration** and **web development**:
 
 <br/><br/>
 
+**`// NETWORKING & INFRASTRUCTURE`**
+
+<img src="https://img.shields.io/badge/FortiGate-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" alt="FortiGate" />
+<img src="https://img.shields.io/badge/Aruba-FF8300?style=for-the-badge&logo=hpe&logoColor=white" alt="Aruba" />
+<img src="https://img.shields.io/badge/TP--Link_Omada-4ACBD6?style=for-the-badge&logo=tplink&logoColor=white" alt="TP-Link Omada" />
+<img src="https://img.shields.io/badge/Synology_NAS-0f172a?style=for-the-badge&logo=synology&logoColor=38bdf8" alt="Synology NAS" />
+<br/>
+<img src="https://img.shields.io/badge/Multi--WAN-0f172a?style=for-the-badge&logoColor=38bdf8" alt="Multi-WAN" />
+<img src="https://img.shields.io/badge/Load_Balancing-0f172a?style=for-the-badge&logoColor=38bdf8" alt="Load Balancing" />
+<img src="https://img.shields.io/badge/DNS-0f172a?style=for-the-badge&logoColor=38bdf8" alt="DNS" />
+<img src="https://img.shields.io/badge/Backup-0f172a?style=for-the-badge&logoColor=38bdf8" alt="Backup" />
+<br/>
+<img src="https://skillicons.dev/icons?i=linux,windows&perline=6" alt="Linux and Windows" />
+
+<br/><br/>
+
 **`// GENERAL`**
 
 <img src="https://img.shields.io/badge/Customer_Support_%2F_IT_Support-0f172a?style=for-the-badge&logoColor=38bdf8" alt="Customer Support / IT Support" />
@@ -98,6 +118,31 @@ I work at the intersection of **system administration** and **web development**:
 <img src="https://img.shields.io/badge/AI_Integration-0f172a?style=for-the-badge&logoColor=38bdf8" alt="AI Integration" />
 
 </div>
+
+---
+
+## <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=22&duration=1800&pause=100000&repeat=false&color=38BDF8&width=270&height=40&vCenter=true&lines=%3E+infrastructure" alt="> infrastructure" />
+
+```console
+fhel@dev:~$ cat /etc/stack
+Firewall / UTM   : FortiGate
+Wireless         : Aruba · TP-Link Omada
+Storage / Backup : Synology NAS
+Connectivity     : Multi-WAN · Load balancing
+```
+
+```mermaid
+%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#0c4a6e','primaryBorderColor':'#38bdf8','primaryTextColor':'#e2e8f0','lineColor':'#38bdf8','secondaryColor':'#0f172a','tertiaryColor':'#020617','fontFamily':'monospace'}}}%%
+flowchart LR
+    W1([🌐 ISP 1]) --> FG
+    W2([🌐 ISP 2]) --> FG
+    FG["<b>FortiGate</b><br/>Multi-WAN · Load balancing"] --> SW["Switching"]
+    SW --> AR["Aruba<br/>Access Points"]
+    SW --> OM["TP-Link Omada<br/>Access Points"]
+    SW --> NAS[("<b>Synology NAS</b><br/>Storage · Backup")]
+    AR --> C(["💻 Users & Devices"])
+    OM --> C
+```
 
 ---
 
