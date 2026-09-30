@@ -6,27 +6,38 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:020617,50:0c4a6e,100:0ea5e9&section=header" alt="" />
-
-<a href="https://fhel-dev.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=56&duration=1800&pause=100000&repeat=false&color=0EA5E9&center=true&vCenter=true&width=560&height=90&lines=Fhel.dev" alt="Fhel.dev" />
-</a>
-<br/>
-<a href="https://fhel-dev.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=400&size=15&duration=3200&pause=1200&color=38BDF8&center=true&vCenter=true&width=760&height=34&lines=I+build+digital+systems+that+help+people+work+better.;System+Administration+%2B+Web+Development;Dependable+systems+%C2%B7+Practical+tools+%C2%B7+Friendly+UX" alt="I build digital systems that help people work better." />
-</a>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Fhel_Jhon_V._Feliciano-0ea5e9?style=for-the-badge&labelColor=0f172a" alt="Name" />
-<img src="https://img.shields.io/badge/Cagayan_de_Oro,_Philippines-0ea5e9?style=for-the-badge&labelColor=0f172a" alt="Location" />
-<img src="https://img.shields.io/badge/Status-Building-22c55e?style=for-the-badge&labelColor=0f172a" alt="Status" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:0c4a6e,50:0ea5e9,100:38bdf8" alt="" />
 
 <br/><br/>
 
+<a href="https://fhel-dev.vercel.app/">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=64&duration=1800&pause=100000&repeat=false&color=0EA5E9&center=true&vCenter=true&width=600&height=100&lines=Fhel.dev" alt="Fhel.dev" />
+</a>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=400&size=15&duration=3200&pause=1600&color=38BDF8&background=0B1220&center=true&vCenter=true&width=840&height=52&lines=%24+whoami+%E2%86%92+Fhel+Jhon+V.+Feliciano;%24+role+%E2%86%92+System+Administrator+%26+Web+Developer;%24+mission+%E2%86%92+I+build+digital+systems+that+help+people+work+better." alt="Fhel Jhon V. Feliciano — System Administrator and Web Developer. I build digital systems that help people work better." />
+
+<br/><br/>
+
+<table>
+<tr>
+<td align="center" width="34%"><sub>ROLE</sub><br/><code>System Administrator &amp; Web Developer</code></td>
+<td align="center" width="33%"><sub>BASED IN</sub><br/><code>Cagayan de Oro, Philippines</code></td>
+<td align="center" width="33%"><sub>FOCUS</sub><br/><code>Infrastructure · Web Apps</code></td>
+</tr>
+</table>
+
+<br/>
+
 <a href="https://fhel-dev.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-fhel--dev.vercel.app-0ea5e9?style=flat-square&logo=vercel&logoColor=white&labelColor=0f172a" alt="Portfolio" /></a>
-<a href="https://github.com/fhelcraft"><img src="https://img.shields.io/badge/GITHUB-fhelcraft-e2e8f0?style=flat-square&logo=github&logoColor=white&labelColor=0f172a" alt="GitHub" /></a>
-<a href="mailto:fhelfeliciano@gmail.com"><img src="https://img.shields.io/badge/EMAIL-fhelfeliciano%40gmail.com-e2e8f0?style=flat-square&logo=gmail&logoColor=white&labelColor=0f172a" alt="Email" /></a>
+<a href="https://github.com/fhelcraft"><img src="https://img.shields.io/badge/GITHUB-fhelcraft-0ea5e9?style=flat-square&logo=github&logoColor=white&labelColor=0f172a" alt="GitHub" /></a>
+<a href="mailto:fhelfeliciano@gmail.com"><img src="https://img.shields.io/badge/EMAIL-fhelfeliciano%40gmail.com-0ea5e9?style=flat-square&logo=gmail&logoColor=white&labelColor=0f172a" alt="Email" /></a>
+<img src="https://img.shields.io/badge/STATUS-BUILDING-22c55e?style=flat-square&labelColor=0f172a" alt="Status: Building" />
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:0c4a6e,50:0ea5e9,100:38bdf8" alt="" />
 
 </div>
 
@@ -407,6 +418,6 @@ Professional Education Units (18 Units)<br/>
 Dependable systems, practical tools, and user-friendly digital experiences that support real work.
 ```
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:0ea5e9,50:0c4a6e,100:020617&section=footer" alt="Footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:0c4a6e,50:0ea5e9,100:38bdf8" alt="" />
 
 </div>
